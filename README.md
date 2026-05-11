@@ -9,7 +9,7 @@ TypeScript Playwright project for the Bug0 take-home assignment.
 - Test Case 3: Login User with incorrect email and password
 - Test Case 4: Logout User
 - Test Case 5: Register User with existing email
-- Passmark version of Test Case 1 in `tests/passmark/register-user.passmark.spec.ts`
+- Passmark version of Test Case 3 in `tests/passmark/invalid-login.passmark.spec.ts`
 
 ## Setup
 
